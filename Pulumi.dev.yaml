@@ -1,0 +1,4 @@
+config:
+  pulumi:template: https://github.com/pulumi-demos/examples/csharp/aws-vpc-base-cs
+environment:
+  - aws
